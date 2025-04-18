@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="35cm" height="25cm" version="1.1" viewBox="0 0 992.126 708.661">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: red;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .25px;
+      }
+
+      .cls-2 {
+        fill: red;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="M962.313,10.259v688.319H30.215V10.259h932.098M962.563,10.009H29.965v688.819h932.598V10.009h0Z"/>
+  <rect class="cls-1" x="811.314" y="497.264" width="113.386" height="141.732"/>
+  <g>
+    <g id="ARC">
+      <path class="cls-1" d="M845.04,67.3c-3.914-6.779-12.582-9.102-19.361-5.188"/>
+    </g>
+    <g id="LINE">
+      <line class="cls-1" x1="908.819" y1="177.77" x2="845.04" y2="67.3"/>
+    </g>
+    <g id="ARC-2" data-name="ARC">
+      <path class="cls-1" d="M903.632,197.131c6.779-3.914,9.102-12.582,5.188-19.361"/>
+    </g>
+    <g id="LINE-2" data-name="LINE">
+      <line class="cls-1" x1="891.357" y1="204.217" x2="903.632" y2="197.131"/>
+    </g>
+    <g id="SPLINE">
+      <path class="cls-1" d="M905.922,328.819c-197.47,0-199.551-17.8-14.564-124.602"/>
+    </g>
+    <g id="LINE-3" data-name="LINE">
+      <line class="cls-1" x1="908.756" y1="328.819" x2="905.922" y2="328.819"/>
+    </g>
+    <g id="ARC-3" data-name="ARC">
+      <path class="cls-1" d="M937.103,357.166c0-15.655-12.691-28.346-28.346-28.346"/>
+    </g>
+    <g id="LINE-4" data-name="LINE">
+      <line class="cls-1" x1="937.103" y1="385.512" x2="937.103" y2="357.166"/>
+    </g>
+    <g id="ARC-4" data-name="ARC">
+      <path class="cls-1" d="M908.756,413.859c15.655,0,28.346-12.691,28.346-28.346"/>
+    </g>
+    <g id="LINE-5" data-name="LINE">
+      <line class="cls-1" x1="488.016" y1="413.858" x2="908.756" y2="413.859"/>
+    </g>
+    <g id="ARC-5" data-name="ARC">
+      <path class="cls-1" d="M466.826,404.34c5.379,6.054,13.091,9.518,21.19,9.518"/>
+    </g>
+    <g id="LINE-6" data-name="LINE">
+      <line class="cls-1" x1="414.714" y1="314.08" x2="466.826" y2="404.34"/>
+    </g>
+    <g id="ARC-6" data-name="ARC">
+      <path class="cls-1" d="M420.561,296.007c-6.294,3.634-8.82,11.44-5.846,18.072"/>
+    </g>
+    <g id="LINE-7" data-name="LINE">
+      <line class="cls-1" x1="825.679" y1="62.112" x2="420.561" y2="296.007"/>
+    </g>
+  </g>
+  <g id="LWPOLYLINE">
+    <polygon class="cls-1" points="113.251 599.691 70.731 599.691 70.731 628.037 113.251 628.037 113.251 642.211 722.7 642.21 722.7 628.037 765.22 628.037 765.22 599.691 722.7 599.691 722.7 585.517 113.251 585.518 113.251 599.691"/>
+  </g>
+  <g>
+    <g id="ARC-7" data-name="ARC">
+      <path class="cls-1" d="M149.911,400.428c3.914,6.779,12.582,9.102,19.361,5.188"/>
+    </g>
+    <g id="LINE-8" data-name="LINE">
+      <line class="cls-1" x1="86.132" y1="289.958" x2="149.911" y2="400.428"/>
+    </g>
+    <g id="ARC-8" data-name="ARC">
+      <path class="cls-1" d="M91.319,270.597c-6.779,3.914-9.102,12.582-5.188,19.361"/>
+    </g>
+    <g id="LINE-9" data-name="LINE">
+      <line class="cls-1" x1="103.594" y1="263.511" x2="91.319" y2="270.597"/>
+    </g>
+    <g id="SPLINE-2" data-name="SPLINE">
+      <path class="cls-1" d="M89.029,138.909c197.47,0,199.55,17.8,14.564,124.602"/>
+    </g>
+    <g id="LINE-10" data-name="LINE">
+      <line class="cls-1" x1="86.195" y1="138.909" x2="89.029" y2="138.909"/>
+    </g>
+    <g id="ARC-9" data-name="ARC">
+      <path class="cls-1" d="M57.848,110.562c0,15.655,12.691,28.346,28.346,28.346"/>
+    </g>
+    <g id="LINE-11" data-name="LINE">
+      <line class="cls-1" x1="57.848" y1="82.216" x2="57.848" y2="110.562"/>
+    </g>
+    <g id="ARC-10" data-name="ARC">
+      <path class="cls-1" d="M86.195,53.869c-15.655,0-28.346,12.691-28.346,28.346"/>
+    </g>
+    <g id="LINE-12" data-name="LINE">
+      <line class="cls-1" x1="506.935" y1="53.87" x2="86.195" y2="53.869"/>
+    </g>
+    <g id="ARC-11" data-name="ARC">
+      <path class="cls-1" d="M528.125,63.388c-5.379-6.054-13.091-9.518-21.19-9.518"/>
+    </g>
+    <g id="LINE-13" data-name="LINE">
+      <line class="cls-1" x1="580.237" y1="153.648" x2="528.125" y2="63.388"/>
+    </g>
+    <g id="ARC-12" data-name="ARC">
+      <path class="cls-1" d="M574.391,171.721c6.294-3.634,8.82-11.44,5.847-18.072"/>
+    </g>
+    <g id="LINE-14" data-name="LINE">
+      <line class="cls-1" x1="169.272" y1="405.616" x2="574.391" y2="171.721"/>
+    </g>
+  </g>
+  <g id="LWPOLYLINE-2" data-name="LWPOLYLINE">
+    <polygon class="cls-1" points="113.497 506.001 70.977 506.001 70.977 534.347 113.497 534.347 113.497 548.52 722.946 548.52 722.946 534.347 765.465 534.347 765.465 506 722.946 506 722.946 491.827 113.497 491.827 113.497 506.001"/>
+  </g>
+  <rect class="cls-1" x="294.299" y="374.167" width="85.039" height="85.039"/>
+</svg>

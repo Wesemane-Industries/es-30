@@ -12,6 +12,14 @@ Use this layout for packaging
 
 ## Release notes
 
+v0.1.1
+
+for 3d print change height of connector and lock from 5.0mm to 4.75mm
+
+* es-30 v7
+* lock v7
+* connector v8
+
 v0.1.0
 
 * es-30 v7

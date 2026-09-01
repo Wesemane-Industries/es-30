@@ -12,6 +12,10 @@ Use this layout for packaging
 
 ## Release notes
 
+v0.1.2
+
+* add .3mf for 3dprint
+
 v0.1.1
 
 for 3d print change height of connector and lock from 5.0mm to 4.75mm
